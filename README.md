@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif)" width="100"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=weihan1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
